@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |Tip-Calculator-Project     |Calculates tips charged on meals             | https://github.com/kaitany/Tip-Calculator_Peer_Project.git     |
+| 2 |Mortgage loan calculator       |Calculates interest on loans            |https://github.com/kaitany/Mortgage-Loan-Calculator.git     |
+| 3 |Cypher-encryption             |Encoding-of-messages             | https://github.com/kaitany/Cypher_encryption.git     |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
